@@ -1,0 +1,170 @@
+﻿body{
+   
+font-family: "NewsGothicBT","Avant Garde","Futura","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.navbar {
+    min-height:80px;
+    background-color:brown;
+    margin-bottom:0px;
+    border:0px;
+}
+#navbar ul{
+    margin-top:18px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    /*color: #a99c9c;*/
+    color:white;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: white;
+    background-color: transparent;
+}
+
+.dept{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:18px;
+    margin-top:0px;
+}
+
+.dept-header{
+    /*background-color:#813772;*/
+    background-color:#f7f7f9;
+    color:black;
+    border-radius:5px;
+
+}
+
+.image-title{
+    width:160px;
+    height:30px;
+    background-color:black;
+    color:white;
+}
+
+.main-content{
+    margin-top:20px;
+}
+
+.sidebar{
+    border-right:1px solid #f2f2f2;
+}
+.body-content{
+ padding-top:0px !important;
+}
+
+.jumbotron{
+    padding-top:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#sidebarmenu{
+    background-color:#eee;
+    margin-top:100px;
+    padding-bottom:20px;
+    padding-top:20px;
+    box-shadow:5px 5px 5px #eee;
+}
+
+.footer{
+    background-color:brown;
+}
+
+.footer-content{
+    text-align:center;
+    color:white;
+}
+
+#sidebarmenu li a{
+    color:rgba(107, 20, 20, 0.78);
+}
+
+.media-heading{
+    text-decoration:underline !important;
+    color:brown !important;
+}
+
+.prof-name{
+    color:brown;
+}
+
+.img-logo{
+    margin-top:3px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    height:100px;
+}
+
+.footer-content{
+    margin-top:20px;
+}
+
+.fixed {
+    position: fixed;
+    top:0; left:0;
+    width: 100%; 
+
+}
+.bio-sketch{
+    text-align:justify !important;
+}
+
+.media-heading-class{
+    color:brown; 
+    text-decoration:underline;
+}
+
+.table-custom{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+tbody{
+        border-bottom:1px solid #ddd;
+        margin-bottom:20px;
+}
+
+
+
+.nav > li:hover{
+    background-color:none;
+}
+.affix{
+    
+    position: fixed;
+    left: 0px;
+    
+    width: 100%;
+    opacity: 99999999;
+    z-index: 9999;
+    top: 0px;
+
+
+}
+
+
+/*Done for the second part of the requirements*/
+.research-header{
+    margin-top:0px;
+    text-decoration:underline;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.research-content{
+    font-size:14px !important;
+    text-align:justify;
+}
+
+.publication-row{
+    margin-bottom:15px;
+    text-align:justify;
+}
+
